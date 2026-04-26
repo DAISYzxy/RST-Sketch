@@ -41,4 +41,4 @@ After parsing the input into RST DT, users can first run `EDU_generation.py` and
 
 
 # Data
-We release the testing data, including parsed RST DT files, selected EDUs, generated summaries, and QA pairs produced by the retention rate agent, at: [Google Drive link](https://drive.google.com/drive/folders/1RfW_M-z6gMEf5W2mN35bjXhd4IVrv5Jq?usp=sharing).
+We release the testing data examples, including parsed RST DT files, selected EDUs, generated summaries, and QA pairs produced by the retention rate agent, at: [Google Drive link](https://drive.google.com/drive/folders/1RfW_M-z6gMEf5W2mN35bjXhd4IVrv5Jq?usp=sharing).
